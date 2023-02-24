@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/BGV_binary_arithmetic.dir/BGV_binary_arithmetic.cpp.o  -o BGV_binary_arithmetic -Wl,-rpath,/usr/local/lib /usr/local/lib/libhelib.a /usr/local/lib/libntl.so /usr/local/lib/libgmp.so -lpthread 

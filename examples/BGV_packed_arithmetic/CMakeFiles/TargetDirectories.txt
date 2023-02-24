@@ -1,0 +1,3 @@
+/home/cyy/HElib/examples/BGV_packed_arithmetic/CMakeFiles/rebuild_cache.dir
+/home/cyy/HElib/examples/BGV_packed_arithmetic/CMakeFiles/BGV_packed_arithmetic.dir
+/home/cyy/HElib/examples/BGV_packed_arithmetic/CMakeFiles/edit_cache.dir
